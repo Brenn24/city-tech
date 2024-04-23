@@ -1,0 +1,40 @@
+html {
+	background-color: grey;
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: black;
+	width: 70%;
+	height: 100%;
+	margin: 0 auto;
+	padding: 20px;
+}
+img {
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+}
+h3 {
+	text-align: center;
+	font-size: 3em;
+	font-family: Arial;
+	color: white;
+}
+p {
+	padding: 0 20px 0;
+	
+}
+.p-container {
+	color: white;
+	background-color: purple;
+	padding: 20px;
+	border-radius: 20px;
+	margin-top: 30px;
+	font-family: Arial;
+	width: 60%;
+	margin: 30px auto 0;
+}
+h2 {
+	text-align: center;
+}
